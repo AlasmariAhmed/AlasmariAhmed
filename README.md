@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmed Alasmari 👋
 
 <div align="center">
   
@@ -67,7 +67,7 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 
 <div align="center">
 
-### 🏗️ [AWS 3-Tier Web Application Architecture](https://github.com/yourusername/aws-3tier-architecture)
+### 🏗️ [AWS 3-Tier Web Application Architecture](https://github.com/AlasmariAhmed/aws-3tier-architecture)
 **Highly available, fault-tolerant web application infrastructure on AWS**
 - Multi-AZ deployment with Auto Scaling
 - Secure VPC design with public/private subnets
