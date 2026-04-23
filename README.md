@@ -26,7 +26,7 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 |--------------|-------|---------------|
 | **AWS Certified Solutions Architect – Associate** | <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"> | Jan 2024 |
 | **AWS Certified Cloud Practitioner** | <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"> | Dec 2023 |
-| **CompTIA Security+** | <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792084d82/CompTIA_Security_2Bce.png" width="100"> | Nov 2023 |
+| **CompTIA Security+** | <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/twitter_thumb_201604_blob" width="100"> | Nov 2023 |
 | **Cisco CCNA** | <img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100"> | Oct 2023 |
 
 </div>
