@@ -89,6 +89,15 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 `Lambda` `DynamoDB` `S3` `API` 
 
 ---
+### 🌐 [AWS Three-Tier Web Application: From Static to Serverless](https://github.com/AlasmariAhmed/three-tier-web.git)
+**🌍 Global CDN Delivery**	CloudFront + OAC
+**⚡ Serverless Compute**	AWS Lambda
+**🗄️ NoSQL Database**	Amazon DynamoDB
+**🔗 RESTful API**	API Gateway
+**🛡️ Private S3 Storage**	Origin Access Control
+**🚀 Automatic Scaling**	Serverless Architecture
+
+`Lambda` `DynamoDB` `S3` `Cloud Front` 
 
 
 
