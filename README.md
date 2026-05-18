@@ -13,8 +13,7 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 - 🔭 Currently working on: **Multi-Region AWS Disaster Recovery Architecture**
 - 🌱 Learning: **Kubernetes, Terraform, Python Automation**
 - 💬 Ask me about: **AWS, Networking, Security, Infrastructure as Code**
-- 📫 Reach me: **your.email@example.com**
-- 🌐 Portfolio: **[yourwebsite.com](https://yourwebsite.com)**
+- 🌐 Linked in: **[Ahmed Alasmari](https://www.linkedin.com/in/ahmed-alasmari-sa)**
 
 ---
 
@@ -66,89 +65,41 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 ## 📊 Featured Projects
 
 <div align="center">
+  
+### 🏗️ [Complete AWS CI/CD Pipeline for Java Web Applications](https://github.com/AlasmariAhmed/aws-cicd-pipeline.git)
+ **Source Control**: GitHub with webhook-triggered automation
+ **Build Automation**: AWS CodeBuild with Maven compilation and testing
+ **Package Management**: AWS CodeArtifact for secure dependency storage
+ **Deployment**: AWS CodeDeploy with blue-green deployment strategy
+ **Orchestration**: AWS CodePipeline coordinating all stages
+ **Monitoring**: CloudWatch for logs, metrics, and alerts
+ **Security**: IAM roles with least-privilege access, no hardcoded credentials
 
-### 🏗️ [AWS 3-Tier Web Application Architecture](https://github.com/AlasmariAhmed/aws-3tier-architecture)
-**Highly available, fault-tolerant web application infrastructure on AWS**
-- Multi-AZ deployment with Auto Scaling
-- Secure VPC design with public/private subnets
-- RDS Multi-AZ for database resilience
-- CloudFront CDN integration
-
-`AWS` `VPC` `EC2` `RDS` `ALB` `Auto Scaling` `CloudFront`
-
----
-
-### 🔐 [Enterprise Security Monitoring Lab](https://github.com/yourusername/security-monitoring-lab)
-**Full-stack SIEM implementation with threat detection**
-- Splunk Enterprise deployment
-- Log aggregation from 20+ sources
-- Custom correlation rules and alerts
-- Incident response playbooks
-
-`Splunk` `SIEM` `Security Onion` `Suricata` `Zeek`
+ `AWS` `VPC` `Artifacts` `CodeDeploy` `EC2` 
 
 ---
 
-### 🌐 [Network Automation Toolkit](https://github.com/yourusername/network-automation)
-**Python-based network configuration and monitoring suite**
-- Automated device configuration with Netmiko
-- Network health monitoring dashboard
-- Backup automation for Cisco devices
-- Configuration compliance checker
+### 🗜️ [Serverless URL Shortener with QR Code & Analytics](https://github.com/AlasmariAhmed/lambda-url-shortner.git)
+**🔗 URL Shortening	Custom**
+**📱 QR Code Generation	Automatic**
+**📊 Click Analytics	Track total clicks**
+**🚦 Rate Limiting**	
+**💰 Cost Effective**	
 
-`Python` `Netmiko` `Paramiko` `NAPALM` `Ansible`
+`Lambda` `DynamoDB` `S3` `API` 
 
 ---
 
-### ☁️ [Terraform AWS Infrastructure Modules](https://github.com/yourusername/terraform-aws-modules)
-**Reusable Terraform modules for AWS infrastructure**
-- VPC with best-practice security groups
-- EC2 instance deployment templates
-- S3 bucket with encryption and versioning
-- IAM roles and policies
 
-`Terraform` `IaC` `AWS` `CI/CD`
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building a Fault-Tolerant AWS Architecture: Lessons Learned](https://yourwebsite.com/blog/aws-fault-tolerant-architecture)
-- [CCNA to AWS: How Networking Skills Transfer to Cloud](https://yourwebsite.com/blog/ccna-to-aws)
-- [Automating Security Monitoring with Splunk and Python](https://yourwebsite.com/blog/splunk-automation)
-- [Zero Trust Network Architecture: A Practical Implementation](https://yourwebsite.com/blog/zero-trust-implementation)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on my blog](https://yourwebsite.com/blog)
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alasmari-sa/)
 
 </div>
 
@@ -156,7 +107,6 @@ I'm a Cloud & Network Engineer passionate about building secure, scalable infras
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
   
   ### 💡 "The best way to predict the future is to implement it."
   
